@@ -8,7 +8,7 @@ To run this program, you need to have node.js installed in your computer.
 Make sure npm or yarn is installed in your machine, run the development server:
 Clone this repository to your local machine
 
-$ cd <PROJECT NAME>
+$ cd PROJECTNAMEDIRECTORY
 
 Run $ yarn install # or npm install to install the dependencies
 
